@@ -16,3 +16,5 @@ If your are looking for some developers for your team, you can finde me at [jopp
 # My web site:
 
 I have a web site hosted in github: [mmorales99.github.io](https://mmorales99.github.io)
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="vertical" data-theme="dark" data-vanity="manuel-morales-1a34761a9"><a class="LI-simple-link" href='https://es.linkedin.com/in/manuel-morales-1a34761a9?trk=profile-badge'>Manuel Morales</a></div>
