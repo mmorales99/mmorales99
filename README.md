@@ -1,20 +1,148 @@
-<h1 align="center">IT's ME</h1>  
+# 👋 ¡Hola! Soy Manuel Juan Morales Amat (`mmorales99`)
+
+_Arquitecto de Software, Full Stack Developer y entusiasta de la tecnología, especializado en sistemas robustos, arquitecturas limpias y soluciones modernas de comunicación y automatización._
+
+[![Web](https://img.shields.io/badge/Website-mcvingenieros.es-blue?logo=githubpages&logoColor=white)](https://www.mcvingenieros.es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mmorales99-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mmorales99)
 
 ---
 
-## WHO AM I?
+## 💼 Sobre mí
 
-I'm a student at [Universidad de Alicante (UA)](https://www.ua.es/ "La UA no actUA").  
-Polyglota since I speak native spanish, valencia as my mother languaje and fluent english; I also write code in Java, C/C++, Python and some many others.
-In the way of specialising on Artificial Intelligence, I have done some courses about CUDA, Artificial and Computericed Vision, and Development of Neural Networks using Tensorflow 2 in Python.
+> Profesional orientado a la excelencia técnica en arquitectura y desarrollo, con visión escalable y experiencia en integración de sistemas, DevOps, contenedores y comunicación digital. Especializado en .NET 8+, y tecnologías modernas de backend, siempre con foco en seguridad, automatización y eficiencia. Experimentado en frontend con Angular 20, JQuery, Vue y WPF.
 
-In a hacky way, I drive my own radio at my local spot. Nowadays, this station has a range of 50 meters, not kinda powerful.
-I have been colaborating around 2 years in the IEEE Student branchs of [Univesidad Miguel Hernández](https://umh.es/ "umhuuuus") where we developed lots of interdisciplinary projects, since a [roomba](https://www.irobot.es/)-like robot to a [CubeSat](https://en.wikipedia.org/wiki/CubeSat)(never launched).
+---
 
-If your are looking for some developers for your team, you can finde me at [joppy.me](https://app.joppy.me/).
+## 🛠️ Tecnologías y Niveles de Conocimiento
 
-# My web site:
+#### Lenguajes
 
-I have a web site hosted in github: [mmorales99.github.io](https://mmorales99.github.io)
+- C#              ▇▇▇▇▇ Experto
+- Java            ▇▇▇▆▆ Avanzado
+- C/C++           ▇▇▇▇▆ Experto
+- Objective-C     ▇▇▆▆▆ Intermedio
+- Cuda            ▇▇▇▆▆ Avanzado
+- TypeScript      ▇▇▇▇▇ Avanzado
+- JavaScript      ▇▇▇▇▇ Avanzado
+- HTML/CSS        ▇▇▇▆▆ Avanzado
+- SQL             ▇▇▇▇▆ Sólido
+- PowerShell      ▇▇▇▇▆ Sólido
+- Python          ▇▇▇▆▆ Avanzado
+- Bash            ▇▇▇▆▆ Avanzado
+- Dart            ▇▇▇▆▆ Avanzado
+- Lisp            ▇▇▇▆▆ Avanzado
+- Scheme          ▇▇▇▆▆ Avanzado
+- Pascal          ▇▇▇▆▆ Avanzado
+- Lazarus         ▇▇▆▆▆ Avanzado
+- Swift           ▇▇▆▆▆ Intermedio
+- Delphi          ▇▇▆▆▆ Intermedio
+- Kotlin          ▇▇▆▆▆ Intermedio
+- Fortran         ▇▇▆▆▆ Intermedio
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="vertical" data-theme="dark" data-vanity="manuel-morales-1a34761a9"><a class="LI-simple-link" href='https://es.linkedin.com/in/manuel-morales-1a34761a9?trk=profile-badge'>Manuel Morales</a></div>
+#### Frameworks y Stacks
+
+- .NET 8 / Core   ▇▇▇▇▇ Experto
+- Angular (20+)   ▇▇▇▇▇ Experto
+- ASP.NET         ▇▇▇▇▆ Sólido
+- Entity Framework▇▇▇▇▆ Sólido
+- Dapper          ▇▇▇▆▆ Avanzado
+- Dapr            ▇▇▇▆▆ Avanzado
+- DevExpress      ▇▇▇▆▆ Avanzado
+- Blazor          ▇▇▇▆▆ Avanzado
+- ASP.NET MVC     ▇▇▇▆▆ Avanzado
+- Web API         ▇▇▇▆▆ Avanzado
+- SignalR         ▇▇▇▆▆ Avanzado
+- gRPC            ▇▇▇▆▆ Avanzado
+- REST            ▇▇▇▆▆ Avanzado
+- SOAP            ▇▇▇▆▆ Avanzado
+- MediatR         ▇▇▇▆▆ Avanzado
+- AutoMapper      ▇▇▇▆▆ Avanzado
+- FluentValidation▇▇▇▆▆ Avanzado
+- Serilog         ▇▇▇▆▆ Avanzado
+- Moq             ▇▇▇▆▆ Avanzado
+- NUnit           ▇▇▇▆▆ Avanzado
+- xUnit           ▇▇▇▆▆ Avanzado
+- IdentityServer  ▇▇▇▆▆ Avanzado
+- RabbitMQ        ▇▇▇▆▆ Avanzado
+- Kafka           ▇▇▇▆▆ Avanzado
+
+#### Herramientas / DevOps
+
+- Podman          ▇▇▇▇▇ Avanzado
+- Git             ▇▇▇▇▇ Avanzado
+- WiX Toolset     ▇▇▇▇▆ Sólido
+- CI/CD (GitHub Actions, scripts) ▇▇▇▇▆ Avanzado
+- Gitlab CI/CD    ▇▇▇▇▆ Avanzado
+- Jenkins         ▇▇▇▆▆ Avanzado
+- Gitea CI/CD     ▇▇▇▆▆ Avanzado
+- Docker Compose  ▇▇▇▇▆ Sólido
+- Docker          ▇▇▇▇▆ Sólido
+- Playwright      ▇▇▇▆▆ Avanzado
+- Selenium        ▇▇▇▆▆ Avanzado
+- IIS             ▇▇▇▆▆ Avanzado
+- Kubernetes      ▇▇▇▆▆ Intermedio
+- Gunicorn        ▇▇▇▆▆ Avanzado
+- Traefik         ▇▇▇▆▆ Avanzado
+- WAMP            ▇▇▇▆▆ Avanzado
+- Elasticsearch   ▇▇▇▆▆ Avanzado
+- Kibana          ▇▇▇▆▆ Avanzado
+- Logstash        ▇▇▇▆▆ Avanzado
+- FileBeat        ▇▇▇▆▆ Avanzado
+- Husky           ▇▇▇▆▆ Avanzado
+- Conventional Commits ▇▇▇▆▆ Avanzado
+
+#### Base de datos / Caching
+
+- SQL Server      ▇▇▇▇▆ Sólido
+- Oracle          ▇▇▇▇▆ Sólido
+- MongoDB         ▇▇▇▇▆ Sólido
+- Redis           ▇▇▇▇▆ Sólido
+- PostgreSQL      ▇▇▇▆▆ Avanzado
+- SQLite          ▇▇▇▆▆ Avanzado
+
+#### Otros
+
+- Sistemas de radio y comunicaciones UHF/VHF (programación y protocolo) ▇▇▇▇▆ Sólido
+- Automatización y scripting ▇▇▇▇▆ Sólido
+
+*Leyenda: ▇▇▇▇▇=Experto | ▇▇▇▇▆=Sólido | ▇▇▇▆▆=Avanzado | ▇▇▆▆▆=Intermedio*
+
+---
+
+## 🏛️ Arquitecturas y Principios que Utilizo
+
+- Domain-Driven Design (DDD)
+- Clean Architecture
+- CQRS (Command-Query Responsibility Segregation)
+- Microservicios
+- Layered Architecture
+- API RESTful seguras y tokenizadas (JWT, OAuth, OIDC)
+- Automatización CI/CD y despliegue containerizado
+- Monitorización y logging distribuido
+
+---
+
+## 🗂️ Portafolio Destacado
+
+| Proyecto         | Descripción                                      | Tecnologías / Arquitectura                                                                | Enlace                                                            |
+|------------------|--------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| SAR Honduras     | Backend y frontend para gestión tributaria        | .NET 6, Vue, Oracle, SqlServer, IIS, gRPC, REST, Api Gateway, ESB, Aspose.PDF, MediatR... | [Ver proyecto](https://oficinavirtual.sar.gob.hn/)                |
+
+_Puedes ver más detalles y proyectos en mi [web personal](https://www.mcvingenieros.es)_
+
+---
+
+## 💡 Cómo trabajo
+
+- Liderazgo técnico y mentorship en equipos multidisciplinares
+- Metodología ágil y trabajo colaborativo (GitFlow, code review, integración continua)
+- Automatización: scripts, pipelines, pre-commits, herramientas de calidad
+- Visión global: desde la arquitectura hasta la entrega y el soporte
+
+---
+
+## 📫 Contacto
+
+- 🌐 Web: [www.mcvingenieros.es](https://www.mcvingenieros.es)
+- 💼 LinkedIn: [Manuel Juan Morales Amat](https://www.linkedin.com/in/mmorales99)
+- ✉️ Email: [mjmorales.mcv@gmail.com](mailto:mjmorales.mcv@gmail.com)
